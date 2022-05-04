@@ -1,4 +1,4 @@
-# Packet-Sniffer
+# Packet-Sniffing for better marketing
 This is a computer networks based project built in python using scapy library.
 
 <h2>Abstract</h2>
